@@ -1,0 +1,24 @@
+{
+    "id": "123412341234",
+    "name": "行走少年郎",
+    "age": "18",
+    "weight": 120,
+    "address": {
+        "country": "中国",
+        "province": "北京"
+    },
+    "courses": [
+        {
+            "name": "Chinese",
+            "desc": "语文课"
+        },
+        {
+            "name": "Math",
+            "desc": "数学课"
+        },
+        {
+            "name": "English",
+            "desc": "英语课"
+        }
+    ]
+}
